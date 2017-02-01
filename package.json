@@ -1,7 +1,7 @@
 {
   "name": "hosted-fields-react",
   "description": "React component encapsulating Braintree's hosted fields",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./lib/HostedFields.js",
   "author": "timrcoulson <tim.r.coulson@gmail.com>",
   "contributors": [
